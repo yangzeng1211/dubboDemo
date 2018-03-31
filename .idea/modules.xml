@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yz-api/yz-api.iml" filepath="$PROJECT_DIR$/yz-api/yz-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yz-consumer/yz-consumer.iml" filepath="$PROJECT_DIR$/yz-consumer/yz-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yz-dubbo.iml" filepath="$PROJECT_DIR$/yz-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yz-provider/yz-provider.iml" filepath="$PROJECT_DIR$/yz-provider/yz-provider.iml" />
+    </modules>
+  </component>
+</project>
